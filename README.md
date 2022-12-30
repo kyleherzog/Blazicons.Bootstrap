@@ -3,6 +3,8 @@ Provides the Bootstrap icon library packaged as [Blazicons](https://github.com/k
 
 Check out the [Demo Site](http://blazicons.com).
 
+[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status/Blazicons.Bootstrap?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=17&branchName=main)
+
 ## Getting Started
 To get started using the Bootstrap Blazicons, just install the Blazicons.Bootstrap NuGet package.
 
