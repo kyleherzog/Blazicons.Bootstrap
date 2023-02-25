@@ -23,3 +23,6 @@ Finally, add the Blazicon component to your Blazor pages/components.
 
 ## Parameters & Styling
 See the [Blazicons](https://github.com/kyleherzog/Blazicons) documentation for details on parameters and styling.
+
+## Credits
+Thanks to the creators of [Bootstrap Icons](https://github.com/twbs/icons)
