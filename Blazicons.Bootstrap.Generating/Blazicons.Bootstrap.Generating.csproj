@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
-    <Version>1.3</Version>
+    <Version>1.4</Version>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Blazicons.Generating" Version="1.0.9" PrivateAssets="all" GeneratePathProperty="true" />
@@ -31,7 +31,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="SonarAnalyzer.CSharp" Version="9.9.0.77355">
+    <PackageReference Include="SonarAnalyzer.CSharp" Version="9.10.0.77988">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>

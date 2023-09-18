@@ -1252,7 +1252,7 @@ public static SvgIcon BrightnessLow => SvgIcon.FromContent("<path d=\"M8 11a3 3 
 /// <summary>
 /// Gets the Brilliance SvgIcon from the BootstrapIcon library.
 /// </summary>
-public static SvgIcon Brilliance => SvgIcon.FromContent("<path fill-rule=\"evenodd\" d=\"M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16ZM1 8a7 7 0 0 1 7-7 3.5 3.5 0 1 0 0 7 3.5 3.5 0 1 1 0 7 7 7 0 0 1-7-7Z\"/>", "0 0 16 16");
+public static SvgIcon Brilliance => SvgIcon.FromContent("<path d=\"M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16ZM1 8a7 7 0 0 0 7 7 3.5 3.5 0 1 0 0-7 3.5 3.5 0 1 1 0-7 7 7 0 0 0-7 7Z\"/>", "0 0 16 16");
 /// <summary>
 /// Gets the BroadcastPin SvgIcon from the BootstrapIcon library.
 /// </summary>
@@ -3452,7 +3452,7 @@ public static SvgIcon Explicit => SvgIcon.FromContent("<path d=\"M6.826 10.88H10
 /// <summary>
 /// Gets the Exposure SvgIcon from the BootstrapIcon library.
 /// </summary>
-public static SvgIcon Exposure => SvgIcon.FromContent("<path d=\"M8.5 4a.5.5 0 0 0-1 0v2h-2a.5.5 0 0 0 0 1h2v2a.5.5 0 0 0 1 0V7h2a.5.5 0 0 0 0-1h-2V4Zm-3 7a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5Z\"/>  <path fill-rule=\"evenodd\" d=\"M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0ZM1 8a7 7 0 1 1 14 0A7 7 0 0 1 1 8Z\"/>", "0 0 16 16");
+public static SvgIcon Exposure => SvgIcon.FromContent("<path d=\"M8.5 4a.5.5 0 0 0-1 0v2h-2a.5.5 0 0 0 0 1h2v2a.5.5 0 0 0 1 0V7h2a.5.5 0 0 0 0-1h-2V4Zm-3 7a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5Z\"/>  <path d=\"M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0ZM1 8a7 7 0 1 1 14 0A7 7 0 0 1 1 8Z\"/>", "0 0 16 16");
 /// <summary>
 /// Gets the EyeFill SvgIcon from the BootstrapIcon library.
 /// </summary>
@@ -4756,7 +4756,7 @@ public static SvgIcon Highlighter => SvgIcon.FromContent("<path fill-rule=\"even
 /// <summary>
 /// Gets the Highlights SvgIcon from the BootstrapIcon library.
 /// </summary>
-public static SvgIcon Highlights => SvgIcon.FromContent("<path fill-rule=\"evenodd\" d=\"M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0Zm-8 5v1H4.5a.502.502 0 0 0-.093.009A7.029 7.029 0 0 1 3.1 13H8Zm0-1v-1H1.674c.166.35.36.685.58 1H8Zm-6.71-2H8V9H1.07c.05.342.123.676.22 1ZM1 8h7V7H1.07c-.046.327-.07.66-.07 1Zm.29-2H8V5H1.674c-.153.32-.281.655-.384 1Zm.965-2H8V3H3.101c-.312.306-.596.64-.846 1Zm2.137-2H8V1c-1.32 0-2.554.365-3.608 1Z\"/>", "0 0 16 16");
+public static SvgIcon Highlights => SvgIcon.FromContent("<path d=\"M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0Zm-8 5v1H4.5a.502.502 0 0 0-.093.009A7.029 7.029 0 0 1 3.1 13H8Zm0-1H2.255a6.998 6.998 0 0 1-.581-1H8v1Zm-6.71-2a6.96 6.96 0 0 1-.22-1H8v1H1.29ZM1 8c0-.34.024-.673.07-1H8v1H1Zm.29-2c.103-.345.231-.68.384-1H8v1H1.29Zm.965-2c.25-.36.534-.694.846-1H8v1H2.255Zm2.137-2A6.967 6.967 0 0 1 8 1v1H4.392Z\"/>", "0 0 16 16");
 /// <summary>
 /// Gets the HospitalFill SvgIcon from the BootstrapIcon library.
 /// </summary>
@@ -5544,7 +5544,7 @@ public static SvgIcon NodePlus => SvgIcon.FromContent("<path fill-rule=\"evenodd
 /// <summary>
 /// Gets the NoiseReduction SvgIcon from the BootstrapIcon library.
 /// </summary>
-public static SvgIcon NoiseReduction => SvgIcon.FromContent("<path d=\"M13 5.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm.5-.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm-5 7a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1.5-1.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1-1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1-1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1-1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1-1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-3 5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm.5-.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z\"/>  <path fill-rule=\"evenodd\" d=\"M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0ZM1 8a7 7 0 0 1 12.83-3.875.5.5 0 1 0 .15.235c.131.214.251.437.359.667a.5.5 0 1 0 .359.932c.133.438.225.894.27 1.364a.5.5 0 1 0 .021.282 7.096 7.096 0 0 1-.091 1.592.5.5 0 1 0-.172.75 6.95 6.95 0 0 1-.418 1.091.5.5 0 0 0-.3.555 7.056 7.056 0 0 1-.296.454.499.499 0 0 0-.712.453c0 .111.036.214.098.297a6.99 6.99 0 0 1-.3.3.5.5 0 0 0-.75.614 7.056 7.056 0 0 1-.455.298.503.503 0 0 0-.555.3 6.95 6.95 0 0 1-1.092.417.5.5 0 1 0-.749.172 7.04 7.04 0 0 1-1.592.091.5.5 0 1 0-.282-.021 6.971 6.971 0 0 1-1.364-.27A.498.498 0 0 0 5.5 14a.5.5 0 0 0-.473.339 6.976 6.976 0 0 1-.668-.36A.499.499 0 0 0 5 13.5a.5.5 0 1 0-.875.33A6.993 6.993 0 0 1 1 8Z\"/>", "0 0 16 16");
+public static SvgIcon NoiseReduction => SvgIcon.FromContent("<path d=\"M13 5.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1 1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm.5-.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm-5 7a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1.5-1.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1-1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1-1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1-1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1-1a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm-3 5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm.5-.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm1-1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z\"/>  <path d=\"M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0ZM1 8a7 7 0 0 1 12.83-3.875.5.5 0 1 0 .15.235c.131.214.251.437.359.667a.5.5 0 1 0 .359.932c.133.438.225.894.27 1.364a.5.5 0 1 0 .021.282 7.096 7.096 0 0 1-.091 1.592.5.5 0 1 0-.172.75 6.95 6.95 0 0 1-.418 1.091.5.5 0 0 0-.3.555 7.056 7.056 0 0 1-.296.454.499.499 0 0 0-.712.453c0 .111.036.214.098.297a6.99 6.99 0 0 1-.3.3.5.5 0 0 0-.75.614 7.056 7.056 0 0 1-.455.298.503.503 0 0 0-.555.3 6.95 6.95 0 0 1-1.092.417.5.5 0 1 0-.749.172 7.04 7.04 0 0 1-1.592.091.5.5 0 1 0-.282-.021 6.971 6.971 0 0 1-1.364-.27A.498.498 0 0 0 5.5 14a.5.5 0 0 0-.473.339 6.976 6.976 0 0 1-.668-.36A.499.499 0 0 0 5 13.5a.5.5 0 1 0-.875.33A6.993 6.993 0 0 1 1 8Z\"/>", "0 0 16 16");
 /// <summary>
 /// Gets the NutFill SvgIcon from the BootstrapIcon library.
 /// </summary>
@@ -6608,7 +6608,7 @@ public static SvgIcon Server => SvgIcon.FromContent("<path d=\"M1.333 2.667C1.33
 /// <summary>
 /// Gets the Shadows SvgIcon from the BootstrapIcon library.
 /// </summary>
-public static SvgIcon Shadows => SvgIcon.FromContent("<path fill-rule=\"evenodd\" d=\"M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-8 7a7 7 0 1 1 3.608-13H8a.5.5 0 0 0 0 1h4.899c.312.306.596.64.846 1H8a.5.5 0 0 0 0 1h6.326c.153.32.281.655.384 1H8a.5.5 0 0 0 0 1h6.93c.046.327.07.66.07 1H8a.5.5 0 0 0 0 1h6.93a6.953 6.953 0 0 1-.22 1H8a.5.5 0 0 0 0 1h6.326c-.166.35-.36.685-.58 1H8a.5.5 0 0 0 0 1h4.899a7.032 7.032 0 0 1-1.306 1.009A.503.503 0 0 0 11.5 14H8a.5.5 0 0 0 0 1Z\"/>", "0 0 16 16");
+public static SvgIcon Shadows => SvgIcon.FromContent("<path d=\"M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-8 7a.5.5 0 0 1 0-1h3.5c.032 0 .063.003.093.009A7.032 7.032 0 0 0 12.9 13H8a.5.5 0 0 1 0-1h5.745c.22-.315.415-.65.581-1H8a.5.5 0 0 1 0-1h6.71a7.03 7.03 0 0 0 .22-1H8a.5.5 0 0 1 0-1h7c0-.34-.024-.673-.07-1H8a.5.5 0 0 1 0-1h6.71a6.949 6.949 0 0 0-.384-1H8a.5.5 0 0 1 0-1h5.745a7.035 7.035 0 0 0-.846-1H8a.5.5 0 0 1 0-1h3.608A7 7 0 1 0 8 15Z\"/>", "0 0 16 16");
 /// <summary>
 /// Gets the ShareFill SvgIcon from the BootstrapIcon library.
 /// </summary>
@@ -6812,7 +6812,7 @@ public static SvgIcon SignStopLightsFill => SvgIcon.FromContent("<path d=\"M8 6a
 /// <summary>
 /// Gets the SignStopLights SvgIcon from the BootstrapIcon library.
 /// </summary>
-public static SvgIcon SignStopLights => SvgIcon.FromContent("<path fill-rule=\"evenodd\" d=\"M6 4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4Zm2 2a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm0 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm1 2a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z\"/>  <path fill-rule=\"evenodd\" d=\"M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435Zm-1.4.7a.495.495 0 0 1 .7 0l6.516 6.515a.495.495 0 0 1 0 .7L8.35 14.866a.495.495 0 0 1-.7 0L1.134 8.35a.495.495 0 0 1 0-.7L7.65 1.134Z\"/>", "0 0 16 16");
+public static SvgIcon SignStopLights => SvgIcon.FromContent("<path d=\"M6 4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4Zm2 2a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm0 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm1 2a1 1 0 1 0-2 0 1 1 0 0 0 2 0Z\"/>  <path d=\"M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435Zm-1.4.7a.495.495 0 0 1 .7 0l6.516 6.515a.495.495 0 0 1 0 .7L8.35 14.866a.495.495 0 0 1-.7 0L1.134 8.35a.495.495 0 0 1 0-.7L7.65 1.134Z\"/>", "0 0 16 16");
 /// <summary>
 /// Gets the SignStop SvgIcon from the BootstrapIcon library.
 /// </summary>
@@ -7956,7 +7956,7 @@ public static SvgIcon ViewStacked => SvgIcon.FromContent("<path d=\"M3 0h10a2 2 
 /// <summary>
 /// Gets the Vignette SvgIcon from the BootstrapIcon library.
 /// </summary>
-public static SvgIcon Vignette => SvgIcon.FromContent("<path fill-rule=\"evenodd\" d=\"M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1ZM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Z\"/>  <path d=\"M8.5 4.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm0 7a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1.683-6.281a.5.5 0 1 1-.866-.5.5.5 0 0 1 .866.5Zm-3.5 6.062a.5.5 0 1 1-.866-.5.5.5 0 0 1 .866.5Zm4.598-4.598a.5.5 0 1 1-.5-.866.5.5 0 0 1 .5.866Zm-6.062 3.5a.5.5 0 1 1-.5-.866.5.5 0 0 1 .5.866ZM11.5 8.5a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1Zm-7 0a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1Zm6.281 1.683a.5.5 0 1 1 .5-.866.5.5 0 0 1-.5.866Zm-6.062-3.5a.5.5 0 1 1 .5-.866.5.5 0 0 1-.5.866Zm4.598 4.598a.5.5 0 1 1 .866-.5.5.5 0 0 1-.866.5Zm-3.5-6.062a.5.5 0 1 1 .866-.5.5.5 0 0 1-.866.5Z\"/>", "0 0 16 16");
+public static SvgIcon Vignette => SvgIcon.FromContent("<path d=\"M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1ZM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Z\"/>  <path d=\"M8.5 4.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm0 7a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1.683-6.281a.5.5 0 1 1-.866-.5.5.5 0 0 1 .866.5Zm-3.5 6.062a.5.5 0 1 1-.866-.5.5.5 0 0 1 .866.5Zm4.598-4.598a.5.5 0 1 1-.5-.866.5.5 0 0 1 .5.866Zm-6.062 3.5a.5.5 0 1 1-.5-.866.5.5 0 0 1 .5.866ZM11.5 8.5a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1Zm-7 0a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1Zm6.281 1.683a.5.5 0 1 1 .5-.866.5.5 0 0 1-.5.866Zm-6.062-3.5a.5.5 0 1 1 .5-.866.5.5 0 0 1-.5.866Zm4.598 4.598a.5.5 0 1 1 .866-.5.5.5 0 0 1-.866.5Zm-3.5-6.062a.5.5 0 1 1 .866-.5.5.5 0 0 1-.866.5Z\"/>", "0 0 16 16");
 /// <summary>
 /// Gets the Vimeo SvgIcon from the BootstrapIcon library.
 /// </summary>
