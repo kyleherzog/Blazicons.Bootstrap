@@ -1,6 +1,9 @@
 # Changelog
 These are the list of changes to each version that has been released.
 
+## 1.6
+- [x] Updated Bootstrap Icons to v1.11.2
+
 ## 1.5
 - [x] Updated Blazicons to v1.2.20
 
