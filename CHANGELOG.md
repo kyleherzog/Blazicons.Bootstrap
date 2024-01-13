@@ -1,6 +1,9 @@
 # Changelog
 These are the list of changes to each version that has been released.
 
+## 1.7
+- [x] Updated Bootstrap Icons to v1.11.3
+
 ## 1.6
 - [x] Updated Bootstrap Icons to v1.11.2
 
