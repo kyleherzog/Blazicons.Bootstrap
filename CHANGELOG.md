@@ -1,6 +1,9 @@
 # Changelog
 These are the list of changes to each version that has been released.
 
+## 3.0
+- [x] Updated Blazicons to v3.0.12
+
 ## 2.3
 - [x] Updated Blazicons to v2.2.39
 
