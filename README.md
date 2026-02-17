@@ -5,7 +5,7 @@ Check out the [Demo Site](http://blazicons.com).
 
 ![Nuget](https://img.shields.io/nuget/v/Blazicons.Bootstrap)
 
-[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status/Blazicons.Bootstrap?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=17&branchName=main)
+[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status%2FBlazicons.Bootstrap?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=37&branchName=main)
 
 ## Getting Started
 To get started using the Bootstrap Blazicons, just install the Blazicons.Bootstrap NuGet package.
